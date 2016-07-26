@@ -1,0 +1,18 @@
+{
+  "name": "light/yii2-validators",
+  "description": "yii2 validators we used every day",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "lichunqiang",
+      "email": "light-li@hotmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.0"
+  }
+}
